@@ -3,11 +3,11 @@ server:
   basePath: ''
 application:
   domain: juice-sh.op
-  name: 'Fortinet Juice Shop'
-  logo: ftnt_logo.png
+  name: 'Unhackable Juice Shop'
+  logo: unh_logo.png
 #  logo: ftnt_logo.svg
-  favicon: ftnt_favicon.ico
-  theme: blue-lightblue # Options: bluegrey-lightgreen blue-lightblue deeppurple-amber indigo-pink pink-bluegrey purple-green deeporange-indigo
+  favicon: unh_favicon.ico
+  theme: deeppurple-amber # Options: bluegrey-lightgreen blue-lightblue deeppurple-amber indigo-pink pink-bluegrey purple-green deeporange-indigo
   showVersionNumber: false
   showGitHubLinks: false
   localBackupEnabled: true
