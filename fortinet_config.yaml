@@ -87,7 +87,7 @@ products:
     deluxePrice: 0.99
     limitPerUser: 5
     description: 'The all-time classic.'
-    image: apple_juice.jpg
+    image: https://raw.githubusercontent.com/FortiLatam/juiceshop/refs/heads/main/img/1applejuice.jpg
     reviews:
       - { text: 'One of my favorites!', author: admin }
   -
