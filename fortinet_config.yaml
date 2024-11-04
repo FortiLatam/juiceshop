@@ -95,14 +95,14 @@ products:
     description: 'Made from oranges hand-picked by Uncle Dittmeyer.'
     price: 2.99
     deluxePrice: 2.49
-    image: orange_juice.jpg
+    image: https://raw.githubusercontent.com/FortiLatam/juiceshop/refs/heads/main/img/1applejuice.jpg
     reviews:
       - { text: 'y0ur f1r3wall needs m0r3 musc13', author: uvogin }
   -
     name: 'Eggfruit Juice (500ml)'
     description: 'Now with even more exotic flavour.'
     price: 8.99
-    image: eggfruit_juice.jpg
+    image: https://raw.githubusercontent.com/FortiLatam/juiceshop/refs/heads/main/img/6eggfruit.jpg
     reviews:
       - { text: 'I bought it, would buy again. 5/7', author: admin }
   -
@@ -116,12 +116,12 @@ products:
     price: 2.99
     deluxePrice: 1.99
     limitPerUser: 5
-    image: lemon_juice.jpg
+    image: https://raw.githubusercontent.com/FortiLatam/juiceshop/refs/heads/main/img/10lemon.jpg
   -
     name: 'Banana Juice (1000ml)'
     description: 'Monkeys love it the most.'
     price: 1.99
-    image: banana_juice.jpg
+    image: https://raw.githubusercontent.com/FortiLatam/juiceshop/refs/heads/main/img/3banana.jpg
     reviews:
       - { text: 'Fry liked it too.', author: bender }
   -
@@ -217,7 +217,7 @@ products:
     name: 'Green Smoothie'
     description: 'Looks poisonous but is actually very good for your health! Made from green cabbage, spinach, kiwi and grass.'
     price: 1.99
-    image: green_smoothie.jpg
+    image: https://raw.githubusercontent.com/FortiLatam/juiceshop/refs/heads/main/img/8greenjuice.jpg
     reviews:
       - { text: 'Fresh out of a replicator.', author: jim }
   -
@@ -230,12 +230,12 @@ products:
     description: 'Finest pressings of apples. Allergy disclaimer: Might contain traces of worms. Can be <a href="/#recycle">sent back to us</a> for recycling.'
     price: 0.89
     limitPerUser: 5
-    image: apple_pressings.jpg
+    image: https://raw.githubusercontent.com/FortiLatam/juiceshop/refs/heads/main/img/2pomace.jpg
   -
     name: 'Fruit Press'
     description: 'Fruits go in. Juice comes out. Pomace you can send back to us for recycling purposes.'
     price: 89.99
-    image: fruit_press.jpg
+    image: https://raw.githubusercontent.com/FortiLatam/juiceshop/refs/heads/main/img/7fruitpress.jpg
   -
     name: 'OWASP Juice Shop Logo (3D-printed)'
     description: 'This rare item was designed and handcrafted in Sweden. This is why it is so incredibly expensive despite its complete lack of purpose.'
@@ -249,7 +249,7 @@ products:
     description: 'Unique masterpiece painted with different kinds of juice on 90g/m² lined paper.'
     price: 278.74
     quantity: 0
-    image: artwork.jpg
+    image: https://raw.githubusercontent.com/FortiLatam/juiceshop/refs/heads/main/img/4artwork.jpg
     deletedDate: '2020-12-24'
   -
     name: 'Global OWASP WASPY Award 2017 Nomination'
@@ -266,7 +266,7 @@ products:
     name: 'Carrot Juice (1000ml)'
     description: 'As the old German saying goes: "Carrots are good for the eyes. Or has anyone ever seen a rabbit with glasses?"'
     price: 2.99
-    image: carrot_juice.jpeg
+    image: https://raw.githubusercontent.com/FortiLatam/juiceshop/refs/heads/main/img/5carrot.jpg
     reviews:
       - { text: '0 st4rs f0r 7h3 h0rr1bl3 s3cur17y', author: uvogin }
   -
@@ -288,7 +288,7 @@ products:
     price: 2999
     quantity: 3
     limitPerUser: 1
-    image: melon_bike.jpeg
+    image: https://raw.githubusercontent.com/FortiLatam/juiceshop/refs/heads/main/img/11bike.jpg
   -
     name: 'OWASP Juice Shop Coaster (10pcs)'
     description: 'Our 95mm circle coasters are printed in full color and made from thick, premium coaster board.'
@@ -327,7 +327,7 @@ products:
     price: 13.49
     quantity: 0
     limitPerUser: 1
-    image: fan_facemask.jpg
+    image: https://raw.githubusercontent.com/FortiLatam/juiceshop/refs/heads/main/img/12facemask.jpg
     reviews:
       - { text: "K33p5 y0ur ju1cy 5plu773r 70 y0ur53lf!", author: uvogin }
       - { text: "Puny mask for puny human weaklings!", author: bender }
@@ -358,7 +358,7 @@ products:
     price: 9999.99
     quantity: 1
     limitPerUser: 1
-    image: permafrost.jpg                                                                                 
+    image: https://raw.githubusercontent.com/FortiLatam/juiceshop/refs/heads/main/img/9frostjs.jpg                                                                                 
     reviews:
       - { text: "🧊 Let it go, let it go 🎶 Can't hold it back anymore 🎶 Let it go, let it go 🎶 Turn away and slam the door ❄️", author: rapper }
   -
