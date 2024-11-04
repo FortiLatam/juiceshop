@@ -7,7 +7,7 @@ application:
   logo: unh_logo.png
 #  logo: ftnt_logo.svg
   favicon: unh_favicon.ico
-  theme: deeppurple-amber # Options: bluegrey-lightgreen blue-lightblue deeppurple-amber indigo-pink pink-bluegrey purple-green deeporange-indigo
+  theme: purple-green # Options: bluegrey-lightgreen blue-lightblue deeppurple-amber indigo-pink pink-bluegrey purple-green deeporange-indigo
   showVersionNumber: false
   showGitHubLinks: false
   localBackupEnabled: true
@@ -366,7 +366,7 @@ products:
     description: 'Unique digital painting depicting Stan, our most qualified and almost profitable salesman. He made a succesful carreer in selling used ships, coffins, krypts, crosses, real estate, life insurance, restaurant supplies, voodoo enhanced asbestos and courtroom souvenirs before <em>finally</em> adding his expertise to the Juice Shop marketing team.'
     price: 5000
     quantity: 1
-    image: artwork2.jpg
+    image: https://raw.githubusercontent.com/FortiLatam/juiceshop/refs/heads/main/img/4artwork.jpg
     reviews:
       - { text: "I'd stand on my head to make you a deal for this piece of art.", author: stan }
       - { text: "Just when my opinion of humans couldn't get any lower, along comes Stan...", author: bender }
